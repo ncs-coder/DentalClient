@@ -1,4 +1,4 @@
-export const API_BASE_URL = 'http://gamingfunapiserver.us-west-1.elasticbeanstalk.com/api';
+export const API_BASE_URL = 'http://dental.us-west-1.elasticbeanstalk.com/api';
 //export const API_BASE_URL = '/api';
 export const ACCESS_TOKEN = 'accessToken';
 
