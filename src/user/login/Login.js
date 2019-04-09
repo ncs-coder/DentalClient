@@ -43,7 +43,7 @@ class LoginForm extends Component {
                     if(error.status === 401) {
                         notification.error({
                             message: 'Polling App',
-                            description: 'Your Username or Password is incorrect. Please try again!'
+                            description: 'Your Username or Password is Incorrect. Please try again!'
                         });                    
                     } else {
                         notification.error({
